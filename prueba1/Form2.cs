@@ -31,5 +31,10 @@ namespace prueba1
         {
 
         }
+
+        private void MonthCalendar2_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
+        }
     }
 }
